@@ -1,0 +1,33 @@
+.ddata{
+  padding: 1.5cm;
+  background-color: rgba(97, 102, 101, 0.68);
+  margin-top: 0.6cm;
+  padding-bottom: 7.6cm; 
+  padding-top: 0cm;
+  background-size:cover;
+} 
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse:separate;
+    width: 100%;
+    border:black
+
+  }
+  
+  td {
+    border: 1px solid #dddddd;
+    text-align:center;
+    padding: 8px;
+  }
+  th {
+    border: 1px solid #dddddd;
+    text-align:center;
+    padding: 8px;
+  }
+  tr:nth-child(even) {
+    background-color: rgba(24, 207, 183, 0.68);
+  }
+  tr:nth-child(odd) {
+    background-color: rgba(109, 230, 213, 0.68);
+  }

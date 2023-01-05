@@ -1,0 +1,19 @@
+upper {
+  list-style-type: none;
+  background-size: cover;
+  position: fixed;
+  background-color: rgba(243, 89, 6, 0.929);
+  height: 8%;
+  width: 100%;
+  padding-block-start: 3cm;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  top: 1.2cm;
+  padding-top: 0cm;
+}
+
+div.nav{
+  background-color:rgb(20, 114, 255);
+  font-style: normal;
+}

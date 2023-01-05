@@ -1,0 +1,9 @@
+div.contact {
+
+    text-align: center;
+    background-image: url("./contact-us.jpg");
+    background-size: cover;
+
+    color: rgb(243, 244, 246);
+    text-shadow: 3px 5px 5px #021c21;
+    }

@@ -1,0 +1,10 @@
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: rgb(212, 212, 212);
+  text-align: center;
+  text-align: center;
+  background: rgb(37, 34, 34);
+  margin-top: 20px;
+}

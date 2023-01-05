@@ -1,0 +1,38 @@
+.crud {
+  
+  list-style-type: none;
+  background-size: cover;
+  position: fixed;
+  background-color: rgba(8, 8, 8, 0.7);
+  height: 8%;
+  width: 100%;
+  padding-block-start: 3cm;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  top: 2.5cm;
+  padding-top: 0cm;
+}
+
+li a {
+  display: flex;
+  color: rgb(199, 195, 195);
+  text-align: center;
+  padding: 6px 8px;
+  justify-content: first baseline;
+  background-color: rgba(221, 221, 20, 0.1);
+  
+}
+
+li a.active {
+  background-color: #e01313;
+  color: rgba(249, 241, 249, 0.866);
+  opacity: 0.6;
+  
+}
+
+li a:hover {
+  background-color: hsla(219, 58%, 77%, 0.881);
+  border-radius: 5px 5px 5px 5px;
+
+}

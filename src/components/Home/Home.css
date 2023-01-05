@@ -1,0 +1,4 @@
+div.home {
+  background-image: url("./home.jpg");
+  background-size: cover;
+}

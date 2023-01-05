@@ -1,0 +1,26 @@
+div.about {
+  
+  color: rgb(13, 18, 117);
+  text-shadow: 10px 0px 10px rgb(255, 255, 255);
+  padding-block-start: 0.1cm;
+  padding-block-end: 1cm;
+  padding-left: 2cm;
+  padding-right: 2cm;
+  margin: 0;
+  background-attachment: fixed;
+  padding-top: 0.5cm;
+  margin-top: 0.57cm;
+  background-repeat:repeat;
+  background-size: cover;
+  /* background-image: url("./about.png"); */
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: rgb(251, 251, 251);
+}
+
+.ab {
+  background-color: rgba(66, 24, 24, 0.2);
+  text-align: center;
+  display: table;
+
+}
